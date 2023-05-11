@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488910710123",
+    "project_id": "imdb-top-movies-41cf3",
+    "storage_bucket": "imdb-top-movies-41cf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488910710123:android:ab325d1718bcd00eadd82e",
+        "android_client_info": {
+          "package_name": "com.example.machine_test_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488910710123-uqldjc92hnavrh1udpac09keft0rh6ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtMLz0-PR0puSiUIRIllsX3wKvFvSrRqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488910710123-uqldjc92hnavrh1udpac09keft0rh6ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
